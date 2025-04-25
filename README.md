@@ -1,7 +1,7 @@
 # 내일의집
 
-**제작 기간**: 2025.03.03 ~ 2025.04.25  
-**참여 인원**: 6명 (이민주, 송현오, 박찬희, 임현규, 정희준)
+**제작 기간** : 2025.03.03 ~ 2025.04.25  
+**참여 인원** : 6명 (이민주, 송현오, 박찬희, 임현규, 정희준)
 
 ---
 
@@ -12,10 +12,10 @@
 ---
 
 ## 활용 기술
-- **Eclipse, Spring, Spring Boot, Apache Tomcat, Maven, OracleDB**
-- **개발 언어**: Java, JavaScript, JQuery, Thymeleaf
-- **개발 툴**: Oracle SQL, AWS
-- **기타 적용 기술**: Ajax, Rest API, JSON, JSP, JPA
+- **개발환경 : Eclipse, Spring, Spring Boot, Apache Tomcat, Maven, OracleDB**
+- **개발 언어** : Java, JavaScript, JQuery, Thymeleaf
+- **개발 툴** : Oracle SQL, AWS
+- **기타 적용 기술** : Ajax, Rest API, JSON, JSP, JPA
 
 ---
 

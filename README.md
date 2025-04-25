@@ -12,10 +12,10 @@
 ---
 
 ## 활용 기술
-- **Spring, Spring Boot, Apache Tomcat, OracleDB**
+- **Eclipse, Spring, Spring Boot, Apache Tomcat, Maven, OracleDB**
 - **개발 언어**: Java, JavaScript, JQuery, Thymeleaf
 - **개발 툴**: Oracle SQL, AWS
-- **기타 적용 기술**: Ajax, Rest API, JSON, Ajax
+- **기타 적용 기술**: Ajax, Rest API, JSON, JSP, JPA
 
 ---
 

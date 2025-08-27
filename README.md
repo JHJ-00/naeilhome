@@ -39,4 +39,7 @@
 - 상품 구매 후 리뷰 작성과 리뷰 모아보기
 
 ## 프로젝트 URL
+사이트 테스트 계정
+- ID : jung
+- PW : 1234
 [http://www.naeilhome.kro.kr/](http://www.naeilhome.kro.kr/)

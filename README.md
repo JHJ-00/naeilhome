@@ -8,6 +8,7 @@
 <img width="2560" height="1370" alt="3번" src="https://github.com/user-attachments/assets/69bdd37e-4fdf-47e9-9252-645526920054" />
 <img width="2560" height="1328" alt="4번" src="https://github.com/user-attachments/assets/12d4442e-ab78-486d-82c9-bdae49ed1206" />
 <img width="2560" height="1328" alt="5번" src="https://github.com/user-attachments/assets/df2dc02a-a43d-4a27-a937-b23a3fcc763e" />
+<img width="2560" height="1328" alt="6번" src="https://github.com/user-attachments/assets/408cf97c-2b7f-4432-bfe1-8187ae3d91be" />
 
 
 ## 프로젝트 개요

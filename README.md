@@ -3,7 +3,6 @@
 **제작 기간** : 2025.02.18 ~ 2025.04.25  
 **참여 인원** : 5명 (이민주, 송현오, 박찬희, 임현규, 정희준)
 
-![Image](https://github.com/user-attachments/assets/15f34efe-e0e8-4e70-9799-c70f66d2bf8b)
 <img width="2560" height="1328" alt="1번" src="https://github.com/user-attachments/assets/8c305f3e-ff81-4dc9-808f-c3318aa2680f" />
 <img width="2560" height="1327" alt="2번" src="https://github.com/user-attachments/assets/aec6c6b3-3c6a-46bb-b219-9ae96edaf7aa" />
 <img width="2560" height="1370" alt="3번" src="https://github.com/user-attachments/assets/69bdd37e-4fdf-47e9-9252-645526920054" />

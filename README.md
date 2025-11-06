@@ -4,6 +4,12 @@
 **참여 인원** : 5명 (이민주, 송현오, 박찬희, 임현규, 정희준)
 
 ![Image](https://github.com/user-attachments/assets/15f34efe-e0e8-4e70-9799-c70f66d2bf8b)
+<img width="2560" height="1328" alt="1번" src="https://github.com/user-attachments/assets/8c305f3e-ff81-4dc9-808f-c3318aa2680f" />
+<img width="2560" height="1327" alt="2번" src="https://github.com/user-attachments/assets/aec6c6b3-3c6a-46bb-b219-9ae96edaf7aa" />
+<img width="2560" height="1370" alt="3번" src="https://github.com/user-attachments/assets/69bdd37e-4fdf-47e9-9252-645526920054" />
+<img width="2560" height="1328" alt="4번" src="https://github.com/user-attachments/assets/12d4442e-ab78-486d-82c9-bdae49ed1206" />
+<img width="2560" height="1328" alt="5번" src="https://github.com/user-attachments/assets/df2dc02a-a43d-4a27-a937-b23a3fcc763e" />
+
 
 ## 프로젝트 개요
 소비자들이 자신만의 독특한 인테리어를 구현하기 위해 다양한 제품을 손쉽게 찾고 구매할 수 있는 플랫폼
@@ -39,7 +45,7 @@
 - 상품 구매 후 리뷰 작성과 리뷰 모아보기
 
 ## 프로젝트 URL
-사이트 테스트 계정
+테스트 계정
 - ID : jung
 - PW : 1234 <br>
 
